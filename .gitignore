@@ -1,0 +1,17 @@
+# binários
+*.exe
+*.out
+
+# go
+/bin
+/vendor
+
+# env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# logs
+*.log
